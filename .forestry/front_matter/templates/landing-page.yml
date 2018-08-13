@@ -79,6 +79,12 @@ fields:
   type: text
   hidden: true
   default: home
+- type: include
+- type: blocks
+- type: textarea
+  name: ooo
+  label: ooo
+  description: ooo
 pages:
 - landingdemo.md
 - index.md
