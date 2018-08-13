@@ -80,11 +80,11 @@ fields:
   hidden: true
   default: home
 - type: include
-- type: blocks
 - type: textarea
   name: ooo
   label: ooo
   description: ooo
+- type: blocks
 pages:
 - landingdemo.md
 - index.md
