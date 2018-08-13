@@ -14,6 +14,5 @@ show_news: false
 partners:
 - "/uploads/2018/08/13/C.E.png"
 show_staff: false
-published: false
 
 ---
